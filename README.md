@@ -9,13 +9,13 @@ I work across the full modern data stack — from batch orchestration and cloud 
 ## 🔧 Tech Stack
 
 **Languages & Query**
-`Python` `SQL` `Bash`
+`Python` `SQL` `Bash` `C`
 
 **Orchestration & Transformation**
 `Apache Airflow` `dbt` `PySpark`
 
 **Lakehouse & Storage**
-`Apache Iceberg` `Snowflake` `AWS S3` `DuckDB`
+`Apache Iceberg` `Snowflake` `AWS S3` `DuckDB` `SQL Server`
 
 **Streaming**
 `Apache Kafka`
